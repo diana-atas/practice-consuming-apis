@@ -1,4 +1,4 @@
-# practice-consuming-apis
+# practice-consuming-external-apis
 
 ## Done
 * https://disneyapi.dev/docs: Disney characters
